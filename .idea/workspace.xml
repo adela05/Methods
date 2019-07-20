@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59b97a4a-8705-4d82-b6cc-e041674ad80c" name="Default Changelist" comment="" />
+    <list default="true" id="59b97a4a-8705-4d82-b6cc-e041674ad80c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/pracMeth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pracMeth.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +17,17 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pracMeth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,8 +47,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="657" />
-    <option name="y" value="34" />
+    <option name="x" value="11" />
+    <option name="y" value="10" />
     <option name="width" value="697" />
     <option name="height" value="728" />
   </component>
@@ -53,6 +65,24 @@
             <path>
               <item name="pracMeth" type="b2602c69:ProjectViewProjectNode" />
               <item name="pracMeth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pracMeth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pracMeth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pracMeth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pracMeth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pracMeth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pracMeth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -104,9 +134,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="657" y="34" width="697" height="728" extended-state="1" />
+    <frame x="11" y="10" width="697" height="728" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960753" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24960753" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -137,8 +168,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/pracMeth.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+        <state relative-caret-position="448">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
